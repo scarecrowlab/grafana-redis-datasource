@@ -34,7 +34,7 @@
     "test:backend:single": "go test ./pkg/... -v -run TestQueryJsonGet",
     "test:integration": "mage integration",
     "upgrade": "yarn upgrade --latest",
-    "watch": "grafana-toolkit plugin:dev --watch"
+    "watch": "grafana-toolkit plugin:dev --watch "
   },
   "version": "2.1.1"
 }
